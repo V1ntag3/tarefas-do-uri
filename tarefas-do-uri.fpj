@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+	<Libs Value=""/>
+	<Flags Value=""/>
+	<Target Value="tarefas-do-uri.exe"/>
+	<CommandLine Value=""/>
+	<CompilerOptions Value="-Wall -s"/>
+	<DeleteObjectsBefore Value="Yes"/>
+	<DeleteObjectsAfter Value="Yes"/>
+	<DeleteMakefileAfter Value="Yes"/>
+	<DeleteResourcesAfter Value="Yes"/>
+	<EnableTheme Value="No"/>
+	<RequiresAdmin Value="No"/>
+	<CompilerType Value="CPP"/>
+	<AppType Value="CONSOLE"/>
+	<Files>
+		<File Name="soma-de-pares-impares-consecutivos-ii.c"/>
+		<File Name="reconhecer-poligono.c"/>
+		<File Name="reconhecedor.c"/>
+		<File Name="dizer-data.c"/>
+		<File Name="data.c"/>
+		<File Name="aprovacao-reprovacao.c"/>
+		<File Name="1101 - Sequência de Números e Soma.c"/>
+		<File Name="1099 - Soma de Ímpares Consecutivos II.c"/>
+		<File Name="1061 - Tempo de um Evento.c"/>
+		<File Name="1048 - Aumento de Salário.c"/>
+		<File Name="1047 - Tempo de Jogo com Minutos .c"/>
+		<File Name="1046 - Tempo de jogo.c"/>
+		<File Name="1044 - Múltiplos.c"/>
+		<File Name="1042 - Sort Simples.c"/>
+		<File Name="1041 - Coordenadas de um Ponto.c"/>
+		<File Name="1040 - Média 3.c"/>
+		<File Name="1037 - Intervalo.c"/>
+		<File Name="1035 - Teste de Seleção 1.c"/>
+	</Files>
+</Project>
